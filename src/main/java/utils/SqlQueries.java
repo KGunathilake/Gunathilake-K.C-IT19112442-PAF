@@ -17,7 +17,7 @@ public class SqlQueries {
 	String output = "";
 	
 	public SqlQueries() {
-		String url = "jdbc:mysql://localhost:3306/paf";
+		String url = "jdbc:mysql://localhost:3306/pafdatabse";
 		//Provide the correct details: DBServer/DBName, username, password
 		String username = "root";
 		String password = "";
